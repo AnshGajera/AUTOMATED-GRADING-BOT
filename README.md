@@ -27,10 +27,9 @@ The grading pipeline involves several AI agents working in sequence:
 ### Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/ai-assignment-grader.git](https://github.com/YourUsername/ai-assignment-grader.git)
-    cd ai-assignment-grader
+    git clone [https://github.com/AnshGajera/AUTOMATED-GRADING-BOT.git](https://github.com/AnshGajera/AUTOMATED-GRADING-BOT.git)
+    cd AUTOMATED-GRADING-BOT
     ```
-    (Replace `YourUsername/ai-assignment-grader` with your actual GitHub username and repository name)
 
 2.  **Create a virtual environment (recommended):**
     ```bash
